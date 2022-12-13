@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou um Python/JAVA Developer</h1>
+<h1 align="center">Oi 👋, Eu sou um JAVA/PYTHON Developer</h1>
 <h3 align="center">Apaixonado pela ciência de dados e suas vertentes!!</h3>
 
 - 🔭 Atualmente estou criando uma fundação em ambas as linguagens [Almejando conseguir um estágio/junior nas linguagens em que estudo](https://github.com/zzSJzz/javaprojects)

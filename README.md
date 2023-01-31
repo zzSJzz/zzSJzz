@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando linguagens de Back-End **Python for DataScience (Pycharm) & Java**
 
-- 👨‍💻 Meu site profissional(Feito por mim mesmo!): [https://github.com/zzSJzz/](https://samuel-cesar.infinityfreeapp.com/)](https://samuel-cesar.infinityfreeapp.com/)
+- 👨‍💻 Meu site profissional(Feito por mim mesmo!): (https://samuel-cesar.infinityfreeapp.com/)](https://samuel-cesar.infinityfreeapp.com/)
 
 - 📫 Como me contactar **samueljc003@gmail.com**
 

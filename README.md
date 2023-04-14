@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou um JAVA/PYTHON Developer</h1>
+<h1 align="center">Oi 👋, Eu sou um | Python | SAP ABEP | Java | Developer</h1>
 <h3 align="center">Apaixonado pela ciência de dados e suas vertentes!!</h3>
 
 - 🔭 Atualmente estou criando uma fundação em ambas as linguagens [Almejando conseguir um estágio/junior nas linguagens em que estudo](https://github.com/zzSJzz/javaprojects)
@@ -9,7 +9,7 @@
 
 - 📫 Como me contactar **samueljc003@gmail.com**
 
-- ⚡ Fato engraçado **Ainda estou pagando as prestações do meu PC**
+- ⚡ Fato engraçado **Ainda estou pagando as prestações das peças do meu PC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

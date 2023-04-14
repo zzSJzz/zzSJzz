@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou criando uma fundação em ambas as linguagens [Almejando conseguir um estágio/junior nas linguagens em que estudo](https://github.com/zzSJzz/javaprojects)
 
-- 🌱 Atualmente estou estudando linguagens de Back-End **Python for DataScience (Pycharm) & Java**
+- 🌱 Atualmente estou estudando linguagens de Back-End **SAP ABEP**
 
 - 👨‍💻 Meu site profissional(Feito por mim mesmo!): [https://samuel-cesar.infinityfreeapp.com/](https://samuel-cesar.infinityfreeapp.com/)
 

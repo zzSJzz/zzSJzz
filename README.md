@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Samuel Cesar, um Back-End/ Cloud  Developer</h1>
 <h3 align="center">Apaixonado por Redes, POO, Cloud e suas vertentes!!</h3>
 
-English version on [here]()
+English version on [here](https://github.com/zzSJzz/zzSJzz/blob/main/EnglishVersion)
 
 ### Sobre mim
 - Me chamo Samuel, tenho 19 anos, original de Salvador, Bahia. Desde pequeno tive um contato próximo com a tecnologia(Meu notebook Celeron 1.1 Ghz que o diga rs), me marcando até hoje. Devido a isso, sempre sonhei em fazer isso minha fonte de renda, trabalhando em empresas ou auxiliando em projetos(Estou sempre a disposição!). Então mesmo não tendo condições financeiras, tento ao máximo aprimorar minhas habilidades para conseguir a tão sonhada vaga, abaixo tem mais alguns dados relevantes para serem lidos!!
